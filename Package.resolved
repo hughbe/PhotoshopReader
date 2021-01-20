@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "DataStream",
+        "repositoryURL": "https://github.com/hughbe/DataStream",
+        "state": {
+          "branch": null,
+          "revision": "858175a666cd9d9d45b2d9a364dba61a41940120",
+          "version": "2.0.3"
+        }
+      },
+      {
+        "package": "ICCReader",
+        "repositoryURL": "https://github.com/hughbe/ICCReader",
+        "state": {
+          "branch": null,
+          "revision": "f8cfec6ed3ccac1a77d37ee25a5d3f3122710cf9",
+          "version": "1.0.2"
+        }
+      },
+      {
+        "package": "BitField",
+        "repositoryURL": "https://github.com/hughbe/SwiftBitField",
+        "state": {
+          "branch": null,
+          "revision": "993f2e4ec4d4edfc598abd3e87cc813e937cffc1",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
